@@ -39,6 +39,12 @@ Dentro de cada bloque tendrás siempre:
   - Videos: [`01-html-css/videos.md`](01-html-css/videos.md)
   - Reto 01 (CV personal): [`01-html-css/reto-01-cv-personal/README.md`](01-html-css/reto-01-cv-personal/README.md)
 
+- Bloque 02: [`02-javascript/`](02-javascript/)
+  - Explicacion: [`02-javascript/README.md`](02-javascript/README.md)
+  - Videos: [`02-javascript/videos.md`](02-javascript/videos.md)
+  - Reto 02 (interactividad del CV): [`02-javascript/reto-02-interactividad-cv/README.md`](02-javascript/reto-02-interactividad-cv/README.md)
+  - Guia de comandos y script base: [`02-javascript/guia-comandos.md`](02-javascript/guia-comandos.md) y [`02-javascript/script-ejemplos.js`](02-javascript/script-ejemplos.js)
+
 ---
 
 ## 2. Dinámica semanal: qué tienes que hacer
@@ -101,14 +107,16 @@ Tu repositorio personal debería ir creciendo por bloques, algo así:
 
 ```text
 semillero-2025-nombre-apellido/
-├─ 01-html-css/
-│  └─ reto-01-cv-personal/
-│     ├─ index.html
-│     └─ style.css
-├─ 02-<otro-tema>/
-│  └─ reto-02-<nombre-del-reto>/
-│     └─ ...
-└─ 03-.../
+?? 01-html-css/
+?  ?? reto-01-cv-personal/
+?     ?? index.html
+?     ?? style.css
+?? 02-javascript/
+?  ?? reto-02-interactividad-cv/
+?     ?? index.html
+?     ?? style.css
+?     ?? script.js
+?? 03-.../
 ```
 
 Para el **primer bloque**, el objetivo mínimo es:
@@ -119,6 +127,17 @@ semillero-2025-nombre-apellido/
    └─ reto-01-cv-personal/
       ├─ index.html
       └─ style.css
+```
+
+Para el **segundo bloque**, agrega:
+
+```text
+semillero-2025-nombre-apellido/
+?? 02-javascript/
+   ?? reto-02-interactividad-cv/
+      ?? index.html
+      ?? style.css
+      ?? script.js
 ```
 
 ---
