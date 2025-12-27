@@ -45,6 +45,11 @@ Dentro de cada bloque tendrás siempre:
   - Reto 02 (interactividad del CV): [`02-javascript/reto-02-interactividad-cv/README.md`](02-javascript/reto-02-interactividad-cv/README.md)
   - Guia de comandos y script base: [`02-javascript/guia-comandos.md`](02-javascript/guia-comandos.md) y [`02-javascript/script-ejemplos.js`](02-javascript/script-ejemplos.js)
 
+- Bloque 03: [`03-bootstrap/`](03-bootstrap/)
+  - Explicacion: [`03-bootstrap/README.md`](03-bootstrap/README.md)
+  - Videos: [`03-bootstrap/videos.md`](03-bootstrap/videos.md)
+  - Reto 03 (landing tattoos): [`03-bootstrap/reto-03-landing-tattoos/README.md`](03-bootstrap/reto-03-landing-tattoos/README.md)
+
 ---
 
 ## 2. Dinámica semanal: qué tienes que hacer
@@ -116,7 +121,10 @@ semillero-2025-nombre-apellido/
 ?     ?? index.html
 ?     ?? style.css
 ?     ?? script.js
-?? 03-.../
+?? 03-bootstrap/
+?  ?? reto-03-landing-tattoos/
+?     ?? index.html
+?? 04-.../
 ```
 
 Para el **primer bloque**, el objetivo mínimo es:
@@ -138,6 +146,15 @@ semillero-2025-nombre-apellido/
       ?? index.html
       ?? style.css
       ?? script.js
+```
+
+Para el **tercer bloque**, agrega:
+
+```text
+semillero-2025-nombre-apellido/
+?? 03-bootstrap/
+   ?? reto-03-landing-tattoos/
+      ?? index.html
 ```
 
 ---
